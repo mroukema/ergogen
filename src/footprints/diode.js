@@ -11,7 +11,7 @@ module.exports = {
     },
     params: {
         class: 'D',
-        mode: Mode.Dual,
+        mode: Mode.Smd,
         reverse: true
     },
     body: p => {
